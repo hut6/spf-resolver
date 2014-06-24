@@ -35,9 +35,9 @@ include('inc/header.php'); ?>
         <table class="table table-striped">
             <thead>
             <tr>
-                <td>Record</td>
-                <td style="width: 15%; text-align: center">Include</td>
-                <td style="width: 15%; text-align: center">Resolve</td>
+                <th>Record</th>
+                <th style="width: 15%; text-align: center">Include</th>
+                <th style="width: 15%; text-align: center">Resolve</th>
             </tr>
             </thead>
             <tbody>
@@ -65,9 +65,9 @@ include('inc/header.php'); ?>
             <table class="table table-striped">
                 <thead>
                 <tr>
-                    <td>Record</td>
-                    <td style="width: 15%; text-align: center">Include</td>
-                    <td style="width: 15%; text-align: center">Resolve</td>
+                    <th>Record</th>
+                    <th style="width: 15%; text-align: center">Include</th>
+                    <th style="width: 15%; text-align: center">Resolve</th>
                 </tr>
                 </thead>
                 <tbody>
