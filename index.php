@@ -6,7 +6,8 @@
 
             <label for="exampleInputEmail1">SPF Record to parse:</label>
 
-            <textarea name="record" class="form-control" required><?=isset($_GET['record'])?$_GET['record']:""?></textarea>
+            <textarea name="record" class="form-control"
+                      required><?= isset($_GET['record']) ? $_GET['record'] : "" ?></textarea>
 
         </div>
 
